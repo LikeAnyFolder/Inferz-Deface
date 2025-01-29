@@ -1,0 +1,3 @@
+#Añade las URLs de los sitios web objetivo, una por línea. Ejemplo:
+http://ejemplo.com
+http://www.ejemplo2.net
